@@ -1,0 +1,38 @@
+<annotation>
+	<folder>labellmg</folder>
+	<filename>cat-dog-625x375.jpg</filename>
+	<path>E:/x pictures etc/labellmg/cat-dog-625x375.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>625</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>108</ymin>
+			<xmax>347</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>315</xmin>
+			<ymin>7</ymin>
+			<xmax>624</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

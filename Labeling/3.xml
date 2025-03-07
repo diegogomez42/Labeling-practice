@@ -1,0 +1,50 @@
+<annotation>
+	<folder>labellmg</folder>
+	<filename>20047217-low_res-normal-people.jpg</filename>
+	<path>E:/x pictures etc/labellmg/20047217-low_res-normal-people.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Man</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>200</ymin>
+			<xmax>389</xmax>
+			<ymax>566</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Woman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>206</ymin>
+			<xmax>780</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ice cream cone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>533</xmin>
+			<ymin>409</ymin>
+			<xmax>574</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+</annotation>
